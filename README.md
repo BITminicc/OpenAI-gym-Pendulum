@@ -9,4 +9,4 @@ test for test
 HaHa
 
 
-![save](https://github.com/BITminicc/OpenAI-gym-Pendulum/raw/master/save/pendulum_ddpg.png)
+![save](https://github.com/BITminicc/OpenAI-gym-Pendulum/blob/main/save/pendulum_ddpg.png)
