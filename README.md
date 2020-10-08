@@ -8,5 +8,5 @@ test for test
 
 HaHa
 
-======
-! [save/pendulum_ddpg.png] (https://github.com/BITminicc/OpenAI-gym-Pendulum/blob/main/save/pendulum_ddpg.png)
+
+![save](https://github.com/BITminicc/OpenAI-gym-Pendulum/blob/main/save/pendulum_ddpg.png)
